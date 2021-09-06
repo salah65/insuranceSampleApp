@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_outline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/renewals"
+        android:icon="@drawable/ic_baseline_autorenew_24"
+        android:title="Renewals" />
+    <item android:id="@+id/services"
+        android:title=""
+        android:enabled="false"
+        />
+    <item android:id="@+id/claims"
+        android:title="Claims"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        />
+    <item android:id="@+id/medical"
+        android:title="Medical Network"
+        android:icon="@drawable/ic_outline_home_24"
+        />
+</menu>
