@@ -1,5 +1,8 @@
 package com.example.sampleinsuranceapp.data.gateway
-//cache values and objects in a HashMap instead of passing them form screen to another
+
+
+//---------- cache values and objects in a HashMap instead of passing them form screen to another
+
 val cacheGateway by lazy { CacheGateway() }
 
 class CacheGateway {
