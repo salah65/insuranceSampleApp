@@ -1,15 +1,10 @@
 ## Table of contents
-* [Demo](#demo)
+* [Screenshots](#Screenshots)
 * [General info](#general-info)
 * [Technologies](#technologies)
 
-## Demo
-<img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/intro.gif" width="270" />
-<img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/login.png" width="270" />
-<img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/validation.png" width="270" />
-<img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/loading.png" width="270" />
-<img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/home.png" width="270" />
-<img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/services.png" width="270" />
+## Screenshots
+<img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/intro.gif" width="270" /><img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/login.png" width="270" /><img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/validation.png" width="270" /><img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/loading.png" width="270" /><img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/home.png" width="270" /><img src="https://github.com/salah65/insuranceSampleApp/blob/dev/media/services.png" width="270" />
 
 ## General info
 This project is simple clone for Brokerage Insurance Brokerage app 
